@@ -20,4 +20,4 @@
 
 ## Free trial
 
-Search is a premium feature. You get 2 weeks free, from the first time you run it. After that, it locks until you top up. A $5 pack gives 3 weeks. A $10 pack or bigger gives 5. Search never uses your credits.
+Search is a premium feature. You get 2 weeks free, from the day you sign up. After that, it locks until you top up. A $5 pack gives 3 weeks. A $10 pack or bigger gives 5. Search never uses your credits.

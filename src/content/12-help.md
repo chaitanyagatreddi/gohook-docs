@@ -19,7 +19,7 @@ No. You use them up as you go.
 No. You get them once. After that, each question costs 100 credits.
 
 **Does Search use credits?**
-No. Search is free for 2 weeks. After that you top up to unlock it. A $5 pack gives 3 weeks. A $10 pack or bigger gives 5.
+No. Search is free for 2 weeks from the day you sign up. After that you top up to unlock it. A $5 pack gives 3 weeks. A $10 pack or bigger gives 5.
 
 **What Reddit data does GoHook read?**
 Public threads, through search. It uses your connected account only where a feature needs it. Audit is one.

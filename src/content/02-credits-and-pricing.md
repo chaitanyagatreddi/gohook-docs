@@ -24,7 +24,7 @@ When your credits run out, Research stops. Top up to keep going.
 
 Search is a premium feature. It does not use credits.
 
-- Free for 2 weeks, from the first time you run it.
+- Free for 2 weeks, from the day you sign up.
 - Up to 250 keywords each time.
 - After the 2 weeks, it locks until you top up.
 - A $5 pack gives you 3 weeks of Search.

@@ -1,22 +1,37 @@
 # Credits and pricing
 
-One thing uses credits today. Research. Everything else is free to use.
+Only Research uses credits. Search is premium and has its own trial. Everything else is free to use.
 
 ## What you get
 
 A new account starts with 2,000 credits.
 
-Every account also gets 10 free Research questions in a rolling two weeks.
+Every account also gets 10 free Research questions. You get them once. They do not come back.
 
 ## What a question costs
 
-The first 10 are free. After that, each question costs 100 credits. About 25 cents.
+Your first 10 questions are free. After that, each question costs 100 credits. About 25 cents.
 
 If a question fails, you get the 100 credits back. Same if we hold the answer back.
 
-Audit, Ask, Board, Ideate, Reply to Threads, Search and Graph cost nothing.
+Audit, Ask, Board, Ideate, Reply to Threads and Graph cost nothing.
 
 Credits do not expire. You use them up as you go.
+
+When your credits run out, Research stops. Top up to keep going.
+
+## Search
+
+Search is a premium feature. It does not use credits.
+
+- Free for 2 weeks, from the first time you run it.
+- Up to 250 keywords each time.
+- After the 2 weeks, it locks until you top up.
+- A $5 pack gives you 3 weeks of Search.
+- A $10 pack, or any bigger pack, gives you 5 weeks.
+- Top up again and the time adds on after what you have left.
+
+Your saved runs stay safe while it is locked. They open again when you top up.
 
 ## Packs
 

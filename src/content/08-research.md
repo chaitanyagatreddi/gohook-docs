@@ -31,4 +31,4 @@ If neither is met, you get nothing. The screen tells you which check failed. You
 
 ## What it costs
 
-The first 10 questions every two weeks are free. After that, 100 credits each.
+Your first 10 questions are free. After that, 100 credits each. When your credits run out, Research stops until you top up.

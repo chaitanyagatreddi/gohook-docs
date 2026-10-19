@@ -16,4 +16,8 @@
 
 - The extra-click numbers are **estimates, not promises**.
 - One search can sit in several groups. So the group totals will not add up to the whole.
-- It looks at your top 100 searches.
+- It looks at your top 250 searches.
+
+## Free trial
+
+Search is a premium feature. You get 2 weeks free, from the first time you run it. After that, it locks until you top up. A $5 pack gives 3 weeks. A $10 pack or bigger gives 5. Search never uses your credits.

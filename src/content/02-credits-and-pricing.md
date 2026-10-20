@@ -1,6 +1,6 @@
 # Credits and pricing
 
-Only Research uses credits. Search is premium and has its own trial. Everything else is free to use.
+Research uses credits. Search is premium and has its own trial. BanAware costs $10 a month, paid from your wallet. Everything else is free to use.
 
 ## What you get
 

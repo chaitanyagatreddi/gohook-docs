@@ -13,6 +13,10 @@
 5. Mark each subreddit green, yellow or red from its own rules. Add a short note.
 6. If something goes wrong, open the "Got banned?" card. It helps you work out which kind of ban it is and what to do next.
 
+## Price
+
+BanAware costs $10 a month. It is paid from your wallet, which is the credit balance you top up on the Payments page. $10 is 4,000 credits.
+
 ## Alerts
 
 Connect a Slack channel in Settings, under Alerts. BanAware posts there when an account reaches Danger, when its score falls by 15 points or more, and when a check-in is due.

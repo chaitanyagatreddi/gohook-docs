@@ -17,7 +17,7 @@
 
 **$10 a month.** The score, the two-week check-in, tips, subreddit marks and the "Got banned?" card.
 
-**$15 a month.** Everything above, plus Slack and Telegram. BanAware posts alerts to your Slack channel, and you can ask the GoHook bot about your accounts there. Telegram is coming soon.
+**$15 a month.** Everything above, plus Slack and Telegram. BanAware posts alerts to your Slack channel, and you can ask the GoHook bot about your accounts there.
 
 Both are paid from your wallet, the credit balance you top up on the Payments page. $10 is 4,000 credits. $15 is 6,000 credits.
 

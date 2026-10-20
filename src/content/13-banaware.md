@@ -15,9 +15,13 @@
 
 ## Price
 
-BanAware costs $10 a month. It is paid from your wallet, which is the credit balance you top up on the Payments page. $10 is 4,000 credits.
+**$10 a month.** The score, the two-week check-in, tips, subreddit marks and the "Got banned?" card.
 
-## Alerts
+**$15 a month.** Everything above, plus Slack and Telegram. BanAware posts alerts to your Slack channel, and you can ask the GoHook bot about your accounts there. Telegram is coming soon.
+
+Both are paid from your wallet, the credit balance you top up on the Payments page. $10 is 4,000 credits. $15 is 6,000 credits.
+
+## Alerts on the $15 plan
 
 Connect a Slack channel in Settings, under Alerts. BanAware posts there when an account reaches Danger, when its score falls by 15 points or more, and when a check-in is due.
 

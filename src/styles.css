@@ -36,6 +36,7 @@ a:hover { color: var(--accent); }
   backdrop-filter: blur(8px);
 }
 .logo { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; color: var(--text); font-family: var(--head); font-weight: 700; font-size: 1.2rem; }
+.logo-mark { height: 20px; width: auto; display: block; }
 .logo em { font-style: normal; font-family: var(--mono); font-weight: 500; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--line); border-radius: 6px; padding: 2px 8px; }
 .open-app { margin-left: auto; text-decoration: none; background: var(--accent); color: #fff; font-weight: 700; font-size: 0.85rem; padding: 9px 16px; border-radius: 10px; }
 .open-app:hover { background: var(--accent-soft); color: #0b0b0c; }

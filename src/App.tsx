@@ -3,17 +3,12 @@ import { Link, NavLink, Navigate, Route, Routes, useLocation } from 'react-route
 import Markdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { GROUPS, features, pages, slugify } from './pages'
+import { GoHookWordmark } from './GoHookLogo'
 
 function Logo() {
   return (
     <Link to="/" className="logo" aria-label="GoHook docs home">
-      <svg width="26" height="26" viewBox="0 0 32 32" fill="none" stroke="#ff4500" strokeWidth="2.4" strokeLinecap="round" aria-hidden="true">
-        <circle cx="16" cy="7" r="3.4" />
-        <circle cx="7" cy="24" r="3.4" />
-        <circle cx="25" cy="24" r="3.4" />
-        <path d="M14.2 10 8.8 21M17.8 10l5.4 11M10.4 24h11.2" />
-      </svg>
-      <span>GoHook</span>
+      <GoHookWordmark className="logo-mark" />
       <em>Docs</em>
     </Link>
   )

@@ -6,7 +6,7 @@ export const GROUPS: { name: string; slugs: string[] }[] = [
   { name: 'Start', slugs: ['start-here', 'credits-and-pricing'] },
   { name: 'Find the threads', slugs: ['audit', 'ask', 'research', 'search', 'graph'] },
   { name: 'Write the post', slugs: ['ideate', 'reply-to-threads', 'your-voice'] },
-  { name: 'Keep track', slugs: ['board'] },
+  { name: 'Keep track', slugs: ['board', 'banaware'] },
   { name: 'Help', slugs: ['help'] },
 ]
 
